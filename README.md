@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hi there! I'm Danish</h1>
-<h3 align="left">I am a software developer currently pursuing certifications of AWS.</h3>
+<h3 align="left">I am a software engineer currently pursuing certifications of AWS.</h3>
 
 <p align="left">
   <a href="https://github.com/danishyasin33/danishyasin33">
