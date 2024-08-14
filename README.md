@@ -17,7 +17,6 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **[DevPro](https://github.com/devproca)**
-- :seedling: &nbsp;I’m currently pursuing AWS **Solutions Architect Professional** Certification
 - :speech_balloon: &nbsp;I like to talk about **Design Patterns** and **Scalable Systems**
 - :mailbox: &nbsp;Contact me at **danishyasin33@gmail.com**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
